@@ -25,7 +25,7 @@ const Footer = () => {
     <footer className={classes.footer}>
       <Container maxWidth="md">
         <Typography variant="body2" align="center" fontWeight={600}>
-          © {new Date().getFullYear()} yonatan taub
+          © {new Date().getFullYear()} shalev sh
         </Typography>
         <Typography variant="body2" align="center">
           <IconButton

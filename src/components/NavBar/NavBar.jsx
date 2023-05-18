@@ -116,7 +116,7 @@ const ResponsiveAppBar = ({ darkMode, onThemeChange }) => {
           <IconButton onClick={LogoCkick}>
             <SportsVolleyballIcon />
             <Typography variant="h6" noWrap>
-              YOYO
+              SH/SH
             </Typography>
           </IconButton>
 
